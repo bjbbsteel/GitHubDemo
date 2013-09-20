@@ -15,13 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ReadMe.txt" />
     <None Include="res\GitHubDemo.rc2">
       <Filter>资源文件</Filter>
     </None>
     <None Include="res\GitHubDemo.ico">
       <Filter>资源文件</Filter>
     </None>
+    <None Include="README.md" />
+    <None Include="ReadMeByVC.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GitHubDemo.h">

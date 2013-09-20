@@ -94,7 +94,8 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="ReadMe.txt" />
+    <None Include="README.md" />
+    <None Include="ReadMeByVC.txt" />
     <None Include="res\GitHubDemo.ico" />
     <None Include="res\GitHubDemo.rc2" />
   </ItemGroup>
